@@ -1,0 +1,6 @@
+name = "cloudflare_internship_submission_shubham_kumar"
+type = "javascript"
+account_id = "37f4d3ef56145aa23679fa693efec33e"
+workers_dev = true
+route = ""
+zone_id = ""
