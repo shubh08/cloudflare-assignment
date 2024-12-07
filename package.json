@@ -14,6 +14,6 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "router": "^1.3.5"
+    "router": "^2.0.0"
   }
 }
